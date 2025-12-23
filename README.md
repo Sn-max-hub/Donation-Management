@@ -62,6 +62,8 @@ Update database credentials (URL, username, password) in the JDBC connection fil
 Run the application
 
 Execute the main Java file to launch the application
+<img width="726" height="529" alt="Screenshot 2025-12-18 160042" src="https://github.com/user-attachments/assets/dbd8c286-0742-4465-b082-6febee3dc260" />
+
 <img width="716" height="513" alt="Screenshot 2025-12-18 160054" src="https://github.com/user-attachments/assets/98c2e497-9151-491c-a2dd-d96aac4a48b0" />
 
 <img width="703" height="477" alt="Screenshot 2025-12-18 160126" src="https://github.com/user-attachments/assets/740f5d3a-48fb-4cb1-8000-b406b19d4775" />
