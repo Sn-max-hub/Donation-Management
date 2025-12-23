@@ -41,12 +41,6 @@ MySQL Connector/J (JAR file)
 Any Java IDE (IntelliJ IDEA / Eclipse / NetBeans) or Terminal
 
 🚀 How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/your-username/donation-management-system.git
-
-
 Import the project
 
 Open the project in your preferred Java IDE
